@@ -1,0 +1,7 @@
+a b c abcbc
+1 2 3 123321
+hola
+
+ab bc cd abbccd
+a1 c8 c8a1a1
+a bc abc

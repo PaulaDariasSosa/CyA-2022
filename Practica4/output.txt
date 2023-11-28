@@ -1,0 +1,34 @@
+TITULO: inpt.cc
+
+DESCRIPCION: 
+/**
+ * Universidad de La Laguna
+ * Escuela Superior de Ingenieria y Tecnologia
+ * Informatica Basica
+ *
+ * @author F. de Sande
+ * @date 23.nov.2020
+ * @brief Ejercicios Informatica Basica
+ * Version 1: Funcion factorial
+ *
+ * @see https://github.com/IB-2022-2023/IB-class -code-examples/
+ */
+
+
+VARIABLES: 
+[Line 24] INT: factorial = 1
+[Line 36] INT: limit
+[Line 37] DOUBLE: atun
+[Line 41] INT: hola
+
+DECLARACIONES: 
+[Line 25] LOOP: for
+[Line 39] LOOP: for 
+
+COMENTARIOS: 
+[Line 17] // Returns the factorial of the argument
+[Line 1 - 12] DESCRIPCION
+[Line 32 - 32] // hola /* adios */
+
+
+MAIN: True

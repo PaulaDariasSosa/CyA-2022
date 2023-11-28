@@ -1,0 +1,7 @@
+pepito = {0, 1, 01, 10}
+juan = {&, 10, 11}
+jose = {&}
+L4 = {}
+pepito juan - jose + pepito 2 * |
+juan jose ^ pepito juan ^ +
+juan 2 *

@@ -1,0 +1,6 @@
+& a ab abc abcb abcbc b bc bcb bcbc c cb cbc b bc c 
+& 1 12 123 1233 12332 123321 2 23 233 2332 23321 3 33 332 3321 3 32 321 2 21 1 
+& h ho hol hola o ol ola l la a 
+& ab abbc abbccd bc bccd cd 
+& c8 c8a1 c8a1a1 a1 a1a1 a1 
+& a abc bc 

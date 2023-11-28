@@ -1,0 +1,3 @@
+{ a b c } { abc }
+{ a 1 } { a aa aaa & }
+{ a b } { a b }

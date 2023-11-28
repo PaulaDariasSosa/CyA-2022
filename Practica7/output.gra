@@ -1,0 +1,14 @@
+2
+a
+b
+4
+E0
+E1
+E2
+E3
+E0
+9
+E0 -> aE2 | bE1
+E1 -> aE1 | bE1 | &
+E2 -> aE1 | bE3
+E3 -> aE2 | bE3
